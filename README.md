@@ -27,24 +27,6 @@ The goal of this project is to analyze retail sales data and answer key business
 
 ---
 
-📂 Dataset
-
-The dataset contains retail transaction details, including:
-
-- Order ID
-- Order Date
-- Product
-- Category
-- Customer
-- Quantity
-- Sales
-- Profit
-- Region
-
-(Update this list if your dataset contains different columns.)
-
----
-
 🔄 Project Workflow
 
 1. Data Collection
@@ -104,32 +86,6 @@ The dashboard includes:
 
 ---
 
-📷 Dashboard Screenshots
-
-Main Dashboard
-
-(Add your dashboard screenshot here after uploading it.)
-
-Example:
-
-![Dashboard](dashboard_images/dashboard.png)
-
----
-
-📁 Repository Structure
-
-Retail-Sales-Analysis
-│
-├── data
-├── python
-├── sql
-├── powerbi
-├── dashboard_images
-├── README.md
-└── requirements.txt
-
----
-
 ▶️ How to Run the Project
 
 1. Download or clone this repository.
@@ -151,8 +107,7 @@ Retail-Sales-Analysis
 
 👩‍💻 Author
 
-Vaishnavi
-
+T Vaishnavi
 Aspiring Data Analyst
 
 Skills
