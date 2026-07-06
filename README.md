@@ -85,7 +85,7 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 ---
 ## Dashboard Preview
 
-![Retail Sales Analysis using Python, SQL, and Power BI](dashboardd%image2.png)
+![Retail Sales Analysis](dashboardd%image2.png)
 
 ---
 
