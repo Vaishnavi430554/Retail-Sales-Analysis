@@ -84,6 +84,12 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 - Interactive Filters (Category, Location, Discount Applied, Subscription Status)
 ---
 
+## Dashboard Preview
+
+![Retail-Sales-Analysis](dashboard.png)
+
+---
+
 ## Key Insights
 
 - Total Revenue generated is **195K**.
