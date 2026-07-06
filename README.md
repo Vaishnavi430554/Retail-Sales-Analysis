@@ -85,7 +85,7 @@ Created an interactive dashboard using KPIs, charts, and slicers for business in
 ---
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Screenshot2026-07-02121354.png)
+![Retail Sales Dashboard](dashboardimage2.png)
 
 ---
 
